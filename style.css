@@ -1,0 +1,61 @@
+
+body {
+    background-color: #f6f3eb; 
+}
+
+
+.navbar-custom {
+    background-color: #3b2f27; 
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #f6f3eb;
+}
+.navbar-custom .nav-link:hover,
+.navbar-custom .nav-link.active {
+    color: white;
+    font-weight: bold;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+
+
+.hero-section {
+    background-image: url('fejlec_vagott.png');
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-content {
+    background-color: rgba(0, 0, 0, 0.6); 
+    padding: 2rem;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+}
+
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+.table-custom-header {
+    background-color: #4a3b32 !important;
+    color: white !important;
+}
+
+
+.card-custom {
+    background-color: #ede7dc;
+    border-color: #c78a20;
+}
