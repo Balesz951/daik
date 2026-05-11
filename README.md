@@ -5,7 +5,7 @@ diak nyilvantarto rendszer
 
 
 
-
+/n
 
 
 
