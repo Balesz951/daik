@@ -5,12 +5,6 @@ diak nyilvantarto rendszer
 
 
 
-/n
-
-
-
-
-
 
 
 
